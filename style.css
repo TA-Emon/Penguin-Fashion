@@ -1,0 +1,155 @@
+
+*{
+    font-family: 'Work Sans', sans-serif;
+}
+
+img.brand-img {
+    width: 15em;
+    margin-right: auto;
+}
+img.mainimg {
+    width: 30em;
+}
+p.prnguin-pra {
+    margin-bottom: 40px;
+}
+h1.penguin-header {
+    text-transform: uppercase;
+    font-size: 3em;
+    font-weight: 700;
+    color: #FABE4C;
+    letter-spacing: 2px;
+    margin-top: 50px;
+}
+span.winter {
+    color: black;
+}
+a.shopping-now {
+    background-image: linear-gradient( #A4BC46,#85A019);
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+    border-radius: 7px;
+}
+i.fa.fa-shopping-cart {
+    font-size: 15px;
+    margin-right: 6px;
+}
+/* second section */
+section {
+    padding-bottom: 150px;
+    padding-top: 50px;
+}
+img#product {
+    background-color: #f1f1f1;
+    padding: 23px 50px;
+    border-radius: 30px;
+}
+img#product2 {
+    background-color: #f1f1f1;
+    border-radius: 30px;
+    padding: 28px 0px;
+}
+img#product3 {
+    background-color: #f1f1f1;
+    border-radius: 30px;
+    padding: 10px 23px;
+}
+.border-none{
+    border:0px;
+}
+.footer-background{
+    background-color: white;
+}
+h5.card-title.jacket-header-bold {
+    font-weight: 600;
+    font-size: 23px;
+}
+h3.jacket-price.text-warning {
+    font-size: 40px;
+    font-weight: 600;
+}
+h1.jacket {
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}
+/*  */
+#mensjack {
+    background-color: #f1f1f1;
+    padding: 22px 22px;
+    border-radius: 30px;
+}
+#mensjack2 {
+    background-color: #f1f1f1;
+    border-radius: 30px;
+    padding: 51px 0px;
+}
+#mensjack3 {
+    background-color: #f1f1f1;
+    border-radius: 30px;
+    padding: 27px 41px;
+}
+
+/* find the perfect section */
+img.find-image {
+    width: 5em;
+    margin-right: 4em;
+}
+.first-content {
+    margin-top: 1em;
+}
+h3.find-header {
+    font-weight: 700;
+}
+img.xmid-img {
+    width: 100%;
+    margin-top: 20px;
+}
+
+/* recent product section */
+.recnet-product{
+    width: 90%;
+}
+h1.recent-header {
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 2em;
+}
+.recent-photo1 {
+    padding: 13px 10px;
+}
+.recent-photo2 {
+    padding: 25px 0px;
+}
+.recent-photo3 {
+    padding: 10px 0px;
+}
+.recent-photo4 {
+    padding: 10px 14px;
+}
+.recent-photo5 {
+    padding: 13px 10px;
+}
+.recent-photo6 {
+    padding: 31px 0px;
+}
+
+/* footer */
+h4.footer-header {
+    text-align: center;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.menu-items {
+    font-weight: 600;
+}
+
+/* responsive */
+@media and screen(max-width:768) {
+    .jacket-header-bold{
+        text-align: center;
+    }
+}
