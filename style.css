@@ -135,7 +135,9 @@ h1.recent-header {
 .recent-photo6 {
     padding: 31px 0px;
 }
-
+h1.jacket-last-price {
+    margin-bottom: 20px;
+}
 /* footer */
 h4.footer-header {
     text-align: center;
@@ -149,8 +151,15 @@ h4.footer-header {
 
 /* responsive */
 
-@media screen and (max-width:768) {
-    .shopping-now{
-        padding: 10px 7px;
+@media (max-width: 920px) {
+    .jacket-header-bold{
+        text-align: center;
+    }
+    .jacket-last-price{
+        text-align: center;
+    }
+    .last-button{
+        margin-left: 180px;
+
     }
 }
