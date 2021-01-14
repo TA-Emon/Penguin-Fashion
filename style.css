@@ -148,8 +148,9 @@ h4.footer-header {
 }
 
 /* responsive */
-@media and screen(max-width:768) {
-    .jacket-header-bold{
-        text-align: center;
+
+@media screen and (max-width:768) {
+    .shopping-now{
+        padding: 10px 7px;
     }
 }
